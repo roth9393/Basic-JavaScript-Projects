@@ -1,10 +1,10 @@
-var A = "Beer Lover!";
-window.alert(A);
+window.alert("This is a window Alert");
 
-document.write("List told Bart, \"that he has sticky!");
-
-document.write("\"Test"
-+ " test");
-
-var B = "This is a crazy as" + "test.";
-document.write(B);
+// Testing colors.
+var A = "I threw a green ball the other day.";
+var A = A.fontcolor("green");
+document.write(A);
+// Setting vars for further maths.
+var B = 5
+var C = 6
+document.write(B + C);
