@@ -8,3 +8,7 @@ document.write(A);
 var B = 5
 var C = 6
 document.write(B + C);
+
+X = 10;
+Y = 10;
+document.write(X == Y)
